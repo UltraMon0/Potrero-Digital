@@ -1,0 +1,44 @@
+body { background-color: #003638;}
+
+#titulo { background-color: #055052;
+          color: black;
+          text-align: center;
+          text-decoration: underline;
+          font-size: xx-large;
+          font-style: italic;}
+   .p1 { color: #F3F2C9;
+         text-align: left;
+         font-size: medium;}
+   .p2 { color: #F3F2C9;
+         text-align: left;
+         font-size: medium;}
+.empanadia { width: 255px;
+             height: 260px;}
+
+
+ .titulo2 { color: black;
+            text-align: center;
+            background-color: #055052;
+            text-decoration: underline;
+            font-size: x-large;
+            font-variant: small-caps;}
+   .p3 { color: #F3F2C9;
+         text-align: left;
+         font-size: medium;}
+ .ingredientes { color: black;
+                 background-color: #055052;
+                text-align: center;
+                text-decoration: underline;
+                font-size: x-large;
+                font-variant: small-caps;}
+   .o { background-color: #055052;}
+  .li1 { color: #F3F2C9;}
+   .pasos { color: black;
+            background-color: #055052;
+            text-align: center;
+            text-decoration:underline;
+            font-size: x-large;
+            font-variant: small-caps;}
+   .steps { background-color: #055052;}
+  .li2 { color: #F3F2C9;
+         font-size: large;}
